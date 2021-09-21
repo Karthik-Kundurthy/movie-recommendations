@@ -1,6 +1,7 @@
 # Initial Research
 
 ## Types of Filtering (https://www.analyticsvidhya.com/blog/2020/11/create-your-own-movie-movie-recommendation-system/)
+# https://builtin.com/data-science/recommender-systems
 
 #### Content Based Filtering
 * Finding similar items to those a user has enjoyed in the past.
